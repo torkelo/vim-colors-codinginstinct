@@ -50,7 +50,7 @@ hi link htmlValue            xmlValue
 
 "" hi link jsAssignmentExpr     Define
 
-hi Normal                    guifg=#E6E1DC guibg=#141414 ctermfg=254 ctermbg=233
+hi Normal                    guifg=#E6E1DC guibg=#141414 ctermfg=252 ctermbg=233
 hi Cursor                    guifg=#000000 ctermfg=0     guibg=#FFFFFF ctermbg=15
 hi CursorLine                guibg=#242424 guifg=NONE    gui=NONE ctermfg=51  ctermbg=234 cterm=NONE
 hi CursorCol                 guibg=#333333 guifg=NONE
@@ -125,7 +125,7 @@ hi Ignore                    ctermfg=Black
 hi WildMenu                  guifg=Black   guibg=#ffff00 gui=bold cterm=bold
 hi Directory                 ctermfg=221 cterm=bold
 
-hi Folded                    guifg=#F6F3E8 guibg=#444444 gui=NONE ctermbg=238 ctermfg=White cterm=NONE
+hi Folded                    guifg=#F6F3E8 guibg=#444444 gui=NONE ctermbg=235 ctermfg=244 cterm=NONE
 hi FoldColumn                none
 hi link FoldColumn           Folded
 
