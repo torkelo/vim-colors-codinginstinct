@@ -60,7 +60,8 @@ hi VertSplit                 guifg=Black   guibg=#aabbee gui=bold ctermfg=237   
 
 hi Comment                   guifg=#BC9458 ctermfg=243 gui=italic
 hi Constant                  guifg=#6D9CBE ctermfg=73
-hi link Identifier Constant
+hi Identifier                guifg=#6D9CBE ctermfg=73  cterm=NONE
+hi goField                   guifg=#6D9CBE ctermfg=173 cterm=NONE
 hi Define                    guifg=#CC7833 ctermfg=173 gui=NONE cterm=NONE
 hi Statement                 guifg=#CC7833 ctermfg=202 gui=NONE cterm=NONE
 hi Error                     guifg=#FFC66D ctermfg=221 guibg=#990000 ctermbg=88
